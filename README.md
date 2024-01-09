@@ -1,7 +1,6 @@
 <!-- Animated Introduction -->
-<p align="center">
-  <img src="https://link-to-your-animated-introduction.gif" alt="Animated Introduction">
-</p>
+<div id="spiral" class="spiral"></div>
+<div id="spiral2" class="spiral"></div>
 
 <!-- Main Header -->
 <h1 align="center">👋 Hey there, I'm Jarvis! 🚀</h1>
