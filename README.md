@@ -1,7 +1,3 @@
-<!-- Animated Introduction -->
-<div id="spiral" class="spiral"></div>
-<div id="spiral2" class="spiral"></div>
-
 <!-- Main Header -->
 <h1 align="center">👋 Hey there, I'm Jarvis! 🚀</h1>
 <p align="center">
@@ -49,6 +45,8 @@ Explore my GitHub spellbook for more wonders!
 🚀 If you seek a skilled sorcerer who's passionate about coding and thrives on building amazing digital realms, let's forge an alliance!
 
 📫 Reach out via [Email](mailto:emmanuelmieye@gmail.com) or embark on a journey through the enchanted forest of [LinkedIn](https://www.linkedin.com/in/emmanuel-frank-opigo-52788a230/).
+
+🐦 You can also follow me on [Twitter](https://twitter.com/Tmieyewhite) for more coding adventures!
 
 ---
 
