@@ -14,7 +14,7 @@
 📘 Armed with a **Bachelor of Science** in Computer Science and empowered by the prestigious **ALX SE Program**, I'm on a quest to turn ideas into reality with the power of code!
 
 🤖 I wield my coding spells in a variety of languages:
-- JavaScript 🚀
+- JavaScript/TypeScript 🚀
 - Python 🐍
 - C and C++ 🌟
 - Rust 🦀
