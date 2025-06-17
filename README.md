@@ -12,7 +12,7 @@
 <!-- About Me Section -->
 ## ✨ About Me
 
-Welcome to my corner of the digital world. I'm Jarvis — a developer with **5 years** of experience building applications with a mix of precision, creativity, and discipline. I believe good code is like good storytelling: consistent, intentional, and always evolving.
+Welcome to my corner of the digital world. I'm Jarvis — a developer with **6 years** of experience building applications with a mix of precision, creativity, and discipline. I believe good code is like good storytelling: consistent, intentional, and always evolving.
 
 🎓 I hold a **B.Sc. in Computer Science** and completed the rigorous **ALX SE Program** — think of it as my own version of mastering under someone like Koro-sensei: tough love, tight deadlines, and constant growth.
 
