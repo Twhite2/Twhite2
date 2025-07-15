@@ -47,6 +47,7 @@ There are more in my GitHub — a quiet garden of ideas, some fully bloomed, oth
 I’m always open to projects that require heart, logic, and maybe a bit of madness — whether it’s prototyping something wild like Mayuri, or keeping things grounded and sharp like Makunouchi Ippo.
 
 📫 You can find me here:
+-[**website**](https://portfolio-alpha-five-12.vercel.app/) Check my Portfolio!!
 - [**Email**](mailto:emmanuelmieye@gmail.com) — for direct transmission
 - [**LinkedIn**](https://www.linkedin.com/in/emmanuel-frank-opigo-52788a230/) — if you'd rather connect like a strategist
 - [**Twitter**](https://twitter.com/Tmieyewhite) — where thoughts and tech mix like a late-night anime monologue
