@@ -193,8 +193,21 @@ motto: "I just enjoy building things. So I take the extra hours to figure things
 
 <p align="center">
   <a href="https://github.com/Twhite2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Twhite2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&border_color=1a1b27&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twhite2&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&border_color=1a1b27&langs_count=8" alt="Top Languages"/>
+    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Twhite2">
+    <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language" width="49%"/>
+    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="49%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Twhite2">
+    <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="49%"/>
+    <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="49%"/>
   </a>
 </p>
 
