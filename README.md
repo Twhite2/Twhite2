@@ -67,6 +67,8 @@ motto: "I just enjoy building things. So I take the extra hours to figure things
   <strong>Blockchain</strong><br/><br/>
   <img src="https://skillicons.dev/icons?i=solana&theme=dark" alt="Blockchain" />
   &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
+  &nbsp;
   <img src="https://img.shields.io/badge/NEAR_Protocol-00C08B?style=for-the-badge&logo=near&logoColor=white" alt="NEAR" />
   &nbsp;
   <img src="https://img.shields.io/badge/Anchor-7C3AED?style=for-the-badge&logoColor=white" alt="Anchor" />
