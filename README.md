@@ -60,7 +60,7 @@ motto: "I just enjoy building things. So I take the extra hours to figure things
 
 <p align="center">
   <strong>Backend & Database</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mysql,mongodb,postgres&theme=dark" alt="Backend" />
 </p>
 
 <p align="center">
