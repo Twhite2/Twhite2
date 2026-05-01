@@ -108,17 +108,17 @@ motto: "I just enjoy building things. So I take the extra hours to figure things
       <p align="center">Break language barriers in live calls. English ↔ French ↔ and beyond.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 Momentum EMR</h3>
+      <h3 align="center">🧊 Trame Simulator</h3>
       <p align="center">
-        <em>Cloud-based Electronic Medical Records for Nigerian hospitals</em>
+        <em>Interactive 3D visualization & simulation explorer</em>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RBAC-00D4AA?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Trame-00D4AA?style=flat-square"/>
+        <img src="https://img.shields.io/badge/VTK-064F8C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/3D-FF6F00?style=flat-square"/>
       </p>
-      <p align="center">Multi-hospital architecture with offline-capable workflows for low-bandwidth environments.</p>
+      <p align="center">Import, visualize and explore complex geometries or simulation data directly in the browser.</p>
     </td>
   </tr>
   <tr>
