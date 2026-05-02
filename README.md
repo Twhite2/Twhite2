@@ -13,7 +13,7 @@
   <a href="https://portfolio-alpha-five-12.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/emmanuel-frank-opigo-52788a230/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:emmanuelopigo2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <a href="https://twitter.com/Tmieyewhite"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://x.com/Jarvismieye"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 <p align="center">
