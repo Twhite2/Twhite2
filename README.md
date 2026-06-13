@@ -33,8 +33,10 @@ education:
   - ALX Software Engineering Programme (Backend Specialized)
 experience: 6+ years building software that matters
 currently:
-  - Founding Engineer @ Momentum Healthcare (EMR Systems)
+  - OpenSCAD Expert @ Micro1
   - Building real-time translation & voice AI tools
+recently:
+  - Founding Engineer @ Momentum Healthcare (EMR Systems)
 interests:
   - Full-Stack Web Development
   - Desktop Applications (Python + C++)
